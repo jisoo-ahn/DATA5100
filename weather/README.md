@@ -48,7 +48,7 @@ Describe the notebooks and/or scripts used to perform the analysis. Specify the 
 
 ## Authors
 
-- Your Name - [@jisoo-ahn](https://github.com/jisoo-ahn)
+- Jisoo Ahn - [@jisoo-ahn](https://github.com/jisoo-ahn)
 
 ---
 
