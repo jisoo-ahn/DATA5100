@@ -52,6 +52,15 @@ Seattle received significantly less mean precipitation than Vancouver, but the p
 ## Authors
 
 - Jisoo Ahn - [@jisoo-ahn](https://github.com/jisoo-ahn)
+<<<<<<< HEAD
+=======
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+>>>>>>> ec7f4572f6201a57c2f35d3fef69bcea5db7a2ab
 
 ---
 
