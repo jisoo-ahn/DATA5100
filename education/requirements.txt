@@ -6,9 +6,9 @@ pandas
 matplotlib
 seaborn
 
-# Statistics
+# Statistics & Machine Learning
 scipy
-
+scikit-learn
 
 # Jupyter & Development
 jupyter
